@@ -25,3 +25,4 @@ contract BoxV2 {
         emit ValueChanged(value);
     }
 }
+

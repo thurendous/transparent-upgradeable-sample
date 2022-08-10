@@ -22,4 +22,3 @@ describe('Box (proxy)', function () {
     expect(result).to.equal(43)
   })
 })
-
